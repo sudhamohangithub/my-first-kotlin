@@ -1,5 +1,7 @@
 # my-first-kotlin
 
+** final goal is to create spring boot post,get, patch API and delpoy using azure pipeline. **
+
 What is Kotlin?
   Kotlin is an open source programming language developed by JetBrain.
 
