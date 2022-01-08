@@ -2,13 +2,13 @@
 
 **final goal is to create spring boot post,get, patch API and delpoy using azure pipeline.**
 
-##What is Kotlin?
+## What is Kotlin?
   Kotlin is an open source programming language developed by JetBrain.
 
-##What is fetures of Kotlin?
+## What is fetures of Kotlin?
 Google has adapted Kotlin as official development language for Android app. 
 
-##Why Kotlin?
+## Why Kotlin?
 - No more null pointer exception. 
 - less boilerplate code 
     - class is not needed for function/method
@@ -18,5 +18,5 @@ Google has adapted Kotlin as official development language for Android app.
 - Immutable variabls and Immutable collecetion type
 - Functional Programming - better then lamda
 
-##Best Praticess
+## Best Praticess
 Prefer immutable variable val 
