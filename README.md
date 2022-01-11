@@ -25,6 +25,10 @@ Google has adapted Kotlin as official development language for Android app.
 ## Point to remember
 - All the variable that you pass to constructor is val
 - Secondary constructor must call primary constructor 
+- companion object
+- data classes
+  - destructuring 
+- ternary operator not possible in kotlin, use return if 
 
 ## Best Praticess
 Prefer immutable variable val 
